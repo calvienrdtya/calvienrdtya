@@ -18,7 +18,8 @@
 const calvin = {
   pronouns: "he",
   code: ["ASP.Net", "C#", "Laravel", "Flutter", "CodeIgniter"],
-  tools: ["HTML", "CSS", "Javascript", "PHP", "Bootstrap", "Tailwind", "Vue", "Next.js", "MySQL", "Figma", "Postman", "SQL Server", "Dart"]
+  tools: ["HTML", "CSS", "Javascript", "PHP", "Bootstrap", "Tailwind", "Vue", 
+  "Next.js", "MySQL", "Figma", "Postman", "SQL Server", "Dart"]
 };
 
 ```
