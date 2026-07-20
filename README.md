@@ -17,8 +17,8 @@
 ```javascript
 const calvin = {
   pronouns: "he",
-  code: ["HTML", "CSS", "Javascript", "PHP"],
-  tools: ["Bootstrap", "Tailwind", "Laravel", "Vue", "MySQL", "Figma", "Postman"]
+  code: ["ASP.Net", "C#", "Laravel", "Flutter", "CodeIgniter"],
+  tools: ["HTML", "CSS", "Javascript", "PHP", "Bootstrap", "Tailwind", "Vue", "Next.js", "MySQL", "Figma", "Postman", "SQL Server", "Dart"]
 };
 
 ```
